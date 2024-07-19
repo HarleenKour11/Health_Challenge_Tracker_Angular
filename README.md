@@ -45,8 +45,8 @@ ADD WORKOUT
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shantanupawarcode07/Health-Challenge-Tracker
-   cd Health-Challenge-Tracker
+   git clone https://github.com/HarleenKour11/Health_Challenge_Tracker_Angular
+   cd Health_Challenge_Tracker_Angular
    ```
 
 2. Install dependencies
