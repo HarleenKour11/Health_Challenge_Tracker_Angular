@@ -26,16 +26,18 @@ Health Challenge Tracker is a web application for tracking and exploring workout
 ### Viewing User Progress 
 
 1. On the "Explore" page, click a user's name.
+
 2. View detailed workout progress for the selected user.
 
 HOME PAGE
-![image](https://health-challenge-tracker-angular.vercel.app/)
+![image](https://github.com/user-attachments/assets/2ebf2a91-f148-4b1e-9c02-24a15814af4f)
 
 EXPLORE PAGE
-![image](https://health-challenge-tracker-angular.vercel.app/explore)
+![image](https://github.com/user-attachments/assets/55ae4b2a-9d77-42ee-a136-1b0b1b985a3e)
 
 ADD WORKOUT
-![image](https://health-challenge-tracker-angular.vercel.app/add-workout)
+![image](https://github.com/user-attachments/assets/baac55ec-c61f-4569-abf6-e884c81db12c)
+
 
 
 
